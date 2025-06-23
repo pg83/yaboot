@@ -1,5 +1,5 @@
 
-// Generated from /place/sandbox-data/tasks/8/1/2625932518/__FUSE/mount_path_2c1dce34-9bbf-4bc5-b2ae-da9b834667ac/trunk/arcadia/devtools/ymake/lang/CmdLexer.g4 by ANTLR 4.11.1
+// Generated from /home/pg/1/devtools/ymake/lang/CmdLexer.g4 by ANTLR 4.11.1
 
 #pragma once
 
